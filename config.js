@@ -128,6 +128,11 @@
        file: 'misc/trolololo_beginning.mp3',
        sid: 'misc',
      },
+	   {
+       name: 'Shit Goes Down',
+       file: 'misc/shit.wav',
+       sid: 'misc',
+     },
      {
        name: 'Samuel L',
        file: 'divider',
@@ -203,5 +208,47 @@
        file: 'south/usamericans.wav',
        sid: 'south',
      },
+     {
+       name: 'Snatch',
+       file: 'divider',
+       sid: 'snatch',
+     },
+	   {
+       name: 'Now, we are fucked',
+       file: 'snatch/nowfucked.wav',
+       sid: 'snatch',
+     },
+     {
+       name: 'The Big Lebowski',
+       file: 'divider',
+       sid: 'lebowski',
+     },
+	   {
+       name: 'Told Brandt',
+       file: 'lebowski/phone.wav',
+       sid: 'lebowski',
+     },
+	   {
+       name: 'Meeting',
+       file: 'lebowski/meeting.wav',
+       sid: 'lebowski',
+     },
+	   {
+       name: 'Agression',
+       file: 'lebowski/agression.wav',
+       sid: 'lebowski',
+     },
+	   {
+       name: 'Employed',
+       file: 'lebowski/employed.wav',
+       sid: 'lebowski',
+     },
+	   {
+       name: 'What Day',
+       file: 'lebowski/what_day.wav',
+       sid: 'lebowski',
+     },
+
+
      ];
 
